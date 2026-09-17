@@ -1,0 +1,5 @@
+node_modules
+artifacts/api-server/dist
+*.tar.gz
+bot-release
+.local
